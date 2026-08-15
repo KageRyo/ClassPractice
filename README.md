@@ -1,32 +1,32 @@
 # ClassPractice
 
 Coursework, assignments, and programming exercises from my undergraduate
-and master's studies.
+and graduate studies.
 
 這個 repository 用來公開保存大學與碩士階段的課程作業、練習程式碼與學習紀錄，
 主要提供教育與備份參考用途。
 
-## Bachelor
+## Undergraduate
 
 國立臺中科技大學智慧生產工程系
 
-- [Java 程式設計](Bachelor/Java程式設計/)
-- [人工智慧程式設計](Bachelor/人工智慧程式設計/)
-- [大學程式能力檢定](Bachelor/大學程式能力檢定/)
-- [機器學習](Bachelor/機器學習/)
-- [網頁程式設計](Bachelor/網頁程式設計/)
-- [行動裝置程式設計](Bachelor/行動裝置程式設計/)
-- [資料結構](Bachelor/資料結構/)
+- [Java 程式設計](Undergraduate/Java程式設計/)
+- [人工智慧程式設計](Undergraduate/人工智慧程式設計/)
+- [大學程式能力檢定](Undergraduate/大學程式能力檢定/)
+- [機器學習](Undergraduate/機器學習/)
+- [網頁程式設計](Undergraduate/網頁程式設計/)
+- [行動裝置程式設計](Undergraduate/行動裝置程式設計/)
+- [資料結構](Undergraduate/資料結構/)
 
-## Master
+## Graduate
 
 國立中正大學資訊工程學系
 
-- [Computer Architecture](Master/ComputerArchitecture/)
-- [Deep Learning](Master/DeepLearning/)
-- [Image Processing](Master/ImageProcessing/)
-- [Open Source Software Development](Master/OpenSourceSoftwareDevelopment/)
-- [Pattern Recognition](Master/PatternRecognition/)
+- [Computer Architecture](Graduate/ComputerArchitecture/)
+- [Deep Learning](Graduate/DeepLearning/)
+- [Image Processing](Graduate/ImageProcessing/)
+- [Open Source Software Development](Graduate/OpenSourceSoftwareDevelopment/)
+- [Pattern Recognition](Graduate/PatternRecognition/)
 
 ## Usage Notice
 
